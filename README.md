@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm Vineetha! 👋
+
+I'm a B.Tech student with a passion for biology and coding. Currently honing my skills in bioinformatics, I'm eager to explore open-source projects and collaborate with fellow developers. Feel free to reach out for discussions on genetic algorithms, or to explore potential collaborations!
+
+🔭 I’m currently working on: Developing a bioinformatics tool to analyze DNA sequences
+🌱 I’m currently learning: Machine learning techniques for biological data analysis
+👯 I’m looking to collaborate on: Open-source bioinformatics projects
+💬 Ask me about: Genetic algorithms, bioinformatics, or Python programming
+📫 How to reach me: You can reach me via email at your.email@example.com
+⚡ Fun fact: I once participated in a hackathon focused on developing solutions for environmental conservation.
